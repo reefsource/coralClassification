@@ -1,0 +1,4 @@
+Version 1.0 May 22 2012
+
+Version 1.1 May 26 2013
+- Added support for setting the pixel-cm ratio.
